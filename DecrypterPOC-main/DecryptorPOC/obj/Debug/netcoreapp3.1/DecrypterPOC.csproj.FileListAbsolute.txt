@@ -1,0 +1,13 @@
+C:\Users\Student.MAT-34\Documents\Downloads\DecrypterPOC-main\DecrypterPOC-main\DecryptorPOC\bin\Debug\netcoreapp3.1\DecrypterPOC.exe
+C:\Users\Student.MAT-34\Documents\Downloads\DecrypterPOC-main\DecrypterPOC-main\DecryptorPOC\bin\Debug\netcoreapp3.1\DecrypterPOC.deps.json
+C:\Users\Student.MAT-34\Documents\Downloads\DecrypterPOC-main\DecrypterPOC-main\DecryptorPOC\bin\Debug\netcoreapp3.1\DecrypterPOC.runtimeconfig.json
+C:\Users\Student.MAT-34\Documents\Downloads\DecrypterPOC-main\DecrypterPOC-main\DecryptorPOC\bin\Debug\netcoreapp3.1\DecrypterPOC.runtimeconfig.dev.json
+C:\Users\Student.MAT-34\Documents\Downloads\DecrypterPOC-main\DecrypterPOC-main\DecryptorPOC\bin\Debug\netcoreapp3.1\DecrypterPOC.dll
+C:\Users\Student.MAT-34\Documents\Downloads\DecrypterPOC-main\DecrypterPOC-main\DecryptorPOC\bin\Debug\netcoreapp3.1\DecrypterPOC.pdb
+C:\Users\Student.MAT-34\Documents\Downloads\DecrypterPOC-main\DecrypterPOC-main\DecryptorPOC\obj\Debug\netcoreapp3.1\DecrypterPOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student.MAT-34\Documents\Downloads\DecrypterPOC-main\DecrypterPOC-main\DecryptorPOC\obj\Debug\netcoreapp3.1\DecrypterPOC.AssemblyInfoInputs.cache
+C:\Users\Student.MAT-34\Documents\Downloads\DecrypterPOC-main\DecrypterPOC-main\DecryptorPOC\obj\Debug\netcoreapp3.1\DecrypterPOC.AssemblyInfo.cs
+C:\Users\Student.MAT-34\Documents\Downloads\DecrypterPOC-main\DecrypterPOC-main\DecryptorPOC\obj\Debug\netcoreapp3.1\DecrypterPOC.csproj.CoreCompileInputs.cache
+C:\Users\Student.MAT-34\Documents\Downloads\DecrypterPOC-main\DecrypterPOC-main\DecryptorPOC\obj\Debug\netcoreapp3.1\DecrypterPOC.dll
+C:\Users\Student.MAT-34\Documents\Downloads\DecrypterPOC-main\DecrypterPOC-main\DecryptorPOC\obj\Debug\netcoreapp3.1\DecrypterPOC.pdb
+C:\Users\Student.MAT-34\Documents\Downloads\DecrypterPOC-main\DecrypterPOC-main\DecryptorPOC\obj\Debug\netcoreapp3.1\DecrypterPOC.genruntimeconfig.cache
